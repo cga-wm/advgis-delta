@@ -78,7 +78,8 @@ Also, try to estimate (or account) for the amount of time you spent on each acti
 
 ### Projects
 Here you can discuss the current status of your projects.
-You may create headings (_note the hierarchy with the hash level, # (heading lv 1), ## (heading lv 2), ### (heading lv 3), #### (heading lv 4)
+You may create headings to organize your project. 
+_Note the hierarchy with the hash level, # (heading lv 1), ## (heading lv 2), ### (heading lv 3), #### (heading lv 4)_
 
 Considere also including a time table for each project you are working on.
 See below for an example.
