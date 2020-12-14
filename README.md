@@ -1,7 +1,9 @@
 # Welcome
 This is the delta version of Advanced GIS (Spring 2021).
 
+### Overview
 I plan to utilize GitHub as our main repository for this course. 
+If you have never used GitHub before, don't worry, I only plan to use a limited amount of GitHub's capabilities, namely: a place for sharing documents (Code), a place for tracking questions and answers (Issues), and place for group conversations (Discussions).
 
 First, when you log in, you should see a welcome screen that includes a list of the repositories you have access to and the teams in which you are a member.
 Everyone in the Spring 2021 class is a member of the [delta-squad](https://github.com/orgs/cga-wm/teams/delta-squad) team.
@@ -14,7 +16,7 @@ My plan is to use:
 * the Discussions for communicating ideas; we have daily topics that you will contribute towards on a weekly basis
 * the Wiki for something; I haven't thought of a use for it yet, but I might.
 
-Familiarize yourself with this web interface.
+Please familiarize yourself with this web interface.
 All textual elements (including comments and discussions) use Markdown syntax, so you can embellish your responses with **bold**, *italic*, ~~strikethrough~~, as well as create ordered (numbered) and unordered lists, tables, and embed images or links.
 See Resources links below for more.
 
