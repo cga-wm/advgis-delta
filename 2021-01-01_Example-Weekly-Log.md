@@ -30,8 +30,8 @@ See below for an example.
 
 Time Table.
 
-|  #  | Milestone | Description | Status    | Deadline |
-| --- | :-------- | :---------- | :-------: | -------: |
+|  #  | Milestone  | Description      | Status           | Deadline |
+| --- | :--------- | :--------------- | :--------------: | -------: |
 | 1 | Form consultancy | I got my team together. | COMPLETE | 1/1/21 |
 | 2 | Choose a paper | I'm debating between two options. Still need to do some preliminary research on data files. | IN-PROGRESS | 1/8/21 |
 | 3 | Preliminary data research | Searching for DEM raster file for second paper; first link I found was broken. | IN-PROGRESS | 1/7/21 |
