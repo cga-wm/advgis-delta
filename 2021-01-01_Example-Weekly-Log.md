@@ -1,4 +1,4 @@
-# Weekly Report 2021-01-01
+# Example Weekly Report 2021-01-01
 
 Summary of accomplishments. _This is only an example. Modify as you see fit._
 
