@@ -45,7 +45,11 @@ If you are up to the task, create separate issues for these challenges and link 
 Remember, issues can be commented on by anyone, including your instructor.
 This is a great way to reach out for help or poll the class for advice.
 
-You can drag-and-drop images (such as screenshots) to help provide context.
+For example, maybe you are having trouble finding data for the [Client Meeting](https://github.com/cga-wm/advgis-delta/issues/5).
+
+You can drag-and-drop images (such as screenshots) into the comments section to help provide context.
+You can also link to any media on the web.
+See [here](https://spatial-data-discovery.github.io/resources-methods.html#linking-images-to-markdown-files) for instructions on linking to images on Wikipedia, Dropbox, and Google Drive.
 
 ### To-do items
 What's your plan for next week? 
@@ -57,3 +61,5 @@ Consider making some of your own.
 - [ ] Be sure to do this first next week
 - [ ] If you have time, research [this](#) topic.
 - [ ] Visualize [this](#) dataset.
+
+Of course, replace the "#" marks in the markdown with real weblinks.
