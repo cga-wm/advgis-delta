@@ -30,10 +30,12 @@ See below for an example.
 
 Time Table.
 
-|  #  | Milestone | Description | Completed |
-| --- | :-------- | :---------- | --------: |
-| 1 | Choosing a paper | I'm debating between two options. Still need to do some preliminary research on data files. | 1/8/21 |
-| 2 | Preliminary data research | Searching for DEM raster file for second paper; first link I found was broken. | 1/7/21 |
+|  #  | Milestone | Description | Status    | Deadline |
+| --- | :-------- | :---------- | :-------: | -------: |
+| 1 | Form consultancy | I got my team together. | COMPLETE | 1/1/21 |
+| 2 | Choose a paper | I'm debating between two options. Still need to do some preliminary research on data files. | IN-PROGRESS | 1/8/21 |
+| 3 | Preliminary data research | Searching for DEM raster file for second paper; first link I found was broken. | IN-PROGRESS | 1/7/21 |
+| 4 | Create website | Talking over w/ team on who's doing what | NOT STARTED | 1/10/21 |
 
 ### This week's challenges
 Here you can bring up the major challenges you faced this week. 
