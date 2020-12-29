@@ -12,9 +12,9 @@ These data are available in the CSV file: [monthly_average_swp.csv](./monthly_av
 The data have been calculated and corrected such that the data are in units of kilo-Pascals (kPa) and missing values or erroneous measurements are given the value zero (0).
 The header row of this CSV file contains the 25 node IDs.
 
-To get the locations of each sensor, a GPS survey was conducted (see [node_gps_survey.txt](#)); however, the sensor nodes were identified using a different numbering system at the time of the GPS survey (old IDs).
+To get the locations of each sensor, a GPS survey was conducted (see [old_node_gps_survey.txt](./old_node_gps_survey.txt)); however, the sensor nodes were identified using a different numbering system at the time of the GPS survey (old IDs).
 Since then, the sensors have been re-numbered (new IDs).
-You can find a table that pairs the old and new IDs (see [old-to-new-ids.txt](#)).
+You can find a table that pairs the old and new IDs (see [old-to-new-ids.tsv](./old-to-new-ids.tsv)).
 
 Your task is to recreate these eight figures to show how water potential changes seasonally over a hillslope in a forested region.
 Please read the dissertation for details.
