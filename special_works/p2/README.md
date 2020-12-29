@@ -8,7 +8,7 @@ Figures 43 through 50 represent seasonal soil water potential (i.e., a measure o
 Table 19 shows the starting and ending dates for each of the seasons used in the analysis and Table 20 shows the sensor node identifying numbers (i.e., sensor node IDs) for the 25 sensors used in the analysis.
 
 You are only provided with the monthly average soil water potential measurements for the 25 sensors listed in Table 20.
-These data are available in the CSV file: [monthly_average_swp.csv](#).
+These data are available in the CSV file: [monthly_average_swp.csv](./monthly_average_swp.csv).
 The data have been calculated and corrected such that the data are in units of kilo-Pascals (kPa) and missing values or erroneous measurements are given the value zero (0).
 The header row of this CSV file contains the 25 node IDs.
 
