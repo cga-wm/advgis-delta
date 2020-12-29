@@ -15,7 +15,7 @@ Your task, should you choose to accept, is to:
 1. Recreate the visualization as close as possible to the one that's published (including the layout and caption)
 1. Keep note of all the procedures, datasets, references, and changes from the original
 
-You may use any GIS tools or resources available to you.
+You may use any tools or resources available to you.
 You may work together; please utilize the discussion board and shared Google doc (links below).
 You must keep track of your methods and research; your process has to be reproducible.
 
