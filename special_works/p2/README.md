@@ -32,6 +32,7 @@ To create this regular grid of cells, the author likely employed the use of a fi
 I could see selecting grid cells within a distance of node points and storing those cells in their own dataset, then doing an overlay analysis to associate node IDs with each cell.
 
 ### GitHub Discussion
+[Discussion board](https://github.com/cga-wm/advgis-delta/discussions/8)
 
 ### Shared Google Doc
 [Shared Google Doc (.gdoc)](https://docs.google.com/document/d/1b0H8jBVHK8BOR0ewy-RggUPlpXgCi9b4F_hIriLJt9g/edit?usp=sharing)
