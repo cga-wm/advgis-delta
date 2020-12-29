@@ -23,6 +23,7 @@ Utilize our GitHub Issue tracker for asking/answering questions.
 Please include the label "Special Works" with your issue.
 
 ### GitHub Discussion
+[Special Works 1 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/7)
 
 ### Shared Google Doc
 [Special Works 1 (.gdoc)](https://docs.google.com/document/d/1eiRrSWErFvqwudQ_qgwSZM1u0zcBqWBCQ4pzoE2guHU/edit?usp=sharing)
