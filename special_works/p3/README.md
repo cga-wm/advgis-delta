@@ -6,23 +6,34 @@
 It is sowing season in Napa Valley California for the coming year's vineyards and one of the deciding factors in a successful harvest is the availability of water. 
 Irrigation plays an important role for this crop and an agricultural firm has asked you to calculate the watershed area (i.e., the area of land that collects rainwater) that feeds their irrigation pump located on Salvador Creek not far from Vintage High School (lat/lon: +38.3326,-122.3107). 
 
-Watershed delineation is a multi-step process and the client has expressed interest, if this project is successful, for you to delineate several more watersheds throughout the region. 
-Knowing that you will have to repeat this process, you decide to create a graphic model of the procedure so you don't forget any steps and simplify the repeatability.
+**Basic Level** 
 
-**Goals:**  
-
-Produce a graphical model of the procedure for watershed delineation and calculate the area of the watershed around Salvador Creek for the client.
-
-**Instructions:**
+Follow the outline of watershed delineation process to determine the area of land that drains through the Salvador Creek at (or near) the location of the client's irrigation pump.
 
 1.  Find elevation data for the Napa, CA region
 2.  Follow the summarized steps below to define the watershed that has an outlet located at (or near) their irrigation station
 3.  Calculate the area of that watershed
 4.  Keep track of all the steps that you take, all the geoprocessing tools you use, all the research/reference articles you utilize, and all collaborations you are involved in (and the time you spent doing them)
-5.  Create a graphical model (e.g., ModelBuilder in ArcGIS or Graphical Modeler in QGIS) that represents the major steps towards solving this challenge
-6.  Use the discussion forum, Google doc, and GitHub Issues to ask questions, collaborate, and share your methodology
 
-**Basic Watershed Delineation Procedure**
+**Intermediate Level**
+
+Watershed delineation is a multi-step process and the client has expressed interest, if this project is successful, for you to delineate several more watersheds throughout the region. 
+Knowing that you will have to repeat this process, you decide to create a model of the procedure so you don't forget any steps and simplify the repeatability.
+
+Produce either a graphical model (e.g., ModelBuilder in ArcGIS or Graphical Modeler in QGIS) or programmatic model (e.g., ArcGIS Notebook) that represents the procedure for watershed delineation and calculate the area of the watershed around Salvador Creek for the client.
+
+**Advanced Level**
+
+_For GIS 520 students._
+
+The client's pump station is nearing its end-of-life and the client has asked for an analysis of alternative pump station locations.
+
+Provide three alternatives within a 10-mile radius of the existing pump house.
+The new basin should be within 20% of the original basin size.
+
+---
+
+**Outline of Watershed Delineation Procedure**
 
 1.  Fill your holes.
 
