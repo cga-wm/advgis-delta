@@ -25,3 +25,4 @@ Please include the label "Special Works" with your issue.
 ### GitHub Discussion
 
 ### Shared Google Doc
+[Special Works 1 (.gdoc)](https://docs.google.com/document/d/1eiRrSWErFvqwudQ_qgwSZM1u0zcBqWBCQ4pzoE2guHU/edit?usp=sharing)
