@@ -16,12 +16,12 @@ To get the locations of each sensor, a GPS survey was conducted (see [old_node_g
 Since then, the sensors have been re-numbered (new IDs).
 You can find a table that pairs the old and new IDs (see [old-to-new-ids.tsv](./old-to-new-ids.tsv)).
 
+**Basic Level**
+
 Your task is to recreate these eight figures to show how water potential changes seasonally over a hillslope in a forested region.
 Please read the dissertation for details.
 To help get you started, a summary of what was done is found below.
 Remember, you may employ any techniques you want to arrive at the solution.
-
-**Summary**
 
 Based on the reading, it seems that the basemap around the point locations of the sensors was created using isolines of elevation (i.e., contour lines).
 These data are not provided; therefore, you will need to find elevation data (e.g., a digital elevation model) for the study area and create isolines to highlight the intervals shown.
@@ -30,6 +30,13 @@ Next, rather than just show points, the data have been associated with a grid wh
 To create this regular grid of cells, the author likely employed the use of a fishnet and the "algorithm used to select grid cells located within 0.5 m of each node location" was likely a proximity analysis.
 
 I could see selecting grid cells within a distance of node points and storing those cells in their own dataset, then doing an overlay analysis to associate node IDs with each cell.
+
+**Intermediate Level**
+
+Showing local changes within a few gridded areas is okay, but one nice thing (in general) about soil conditions, such water potential, is that they tend to be continuous across a given surface (or horizon).
+Continuous variables can be estimated between known values because we know there has to be a smooth transition from one value to the next.
+
+Try to create a map in addition to the ones created in the Basic Level, where you estimate the values in between the sensors (e.g., spatial interpolation).
 
 ### GitHub Discussion
 [Special Works 2 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/8)
