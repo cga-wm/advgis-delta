@@ -50,7 +50,7 @@ Produce a graphical model of the procedure for watershed delineation and calcula
     TMTOWTDI (there's more than one way to do it).
 
 ### GitHub Discussion
-[Special Works 3 (discussion board)](#)
+[Special Works 3 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/9)
 
 ### Shared Google Doc 
 [Special Works 3 (.gdoc)](https://docs.google.com/document/d/1anrl_3Zeow7ZUGmfeRw-2RWirkCwPzsc5_QizuFcflA/edit?usp=sharing)
