@@ -1,4 +1,6 @@
 # Special Works - Project 3 - Watershed Delineation
+![Introduction Video](# "Introduction Video")
+
 **Scenario:**  
 
 It is sowing season in Napa Valley California for the coming year's vineyards and one of the deciding factors in a successful harvest is the availability of water. 
