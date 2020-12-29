@@ -29,7 +29,7 @@ See if you can provide an answer for the independent research group.
 Are the numbers increasing, decreasing or staying about the same?
 
 ### GitHub Discussion
-[Special Works 4 (discussion board)](#)
+[Special Works 4 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/10)
 
 ### Shared Google Doc
 [Special Works 4 (.gdoc)](https://docs.google.com/document/d/1lzVDGyGrbupVeWuNrusXDvVBA96kQxjzJvoPtz7ctew/edit?usp=sharing)
