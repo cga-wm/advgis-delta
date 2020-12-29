@@ -34,3 +34,4 @@ I could see selecting grid cells within a distance of node points and storing th
 ### GitHub Discussion
 
 ### Shared Google Doc
+[Shared Google Doc (.gdoc)](https://docs.google.com/document/d/1b0H8jBVHK8BOR0ewy-RggUPlpXgCi9b4F_hIriLJt9g/edit?usp=sharing)
