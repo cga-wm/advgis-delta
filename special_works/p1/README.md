@@ -1,4 +1,6 @@
 # Special Works - Project 1 - Figure Reproduction
+![Introduction Video](# "Introduction Video")
+
 A client has asked you to reproduce a figure that they found in a journal article they read.
 Unfortunately, they only provide you with the following details:
 
