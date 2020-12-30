@@ -36,7 +36,21 @@ I could see selecting grid cells within a distance of node points and storing th
 Showing local changes within a few gridded areas is okay, but one nice thing (in general) about soil conditions, such water potential, is that they tend to be continuous across a given surface (or horizon).
 Continuous variables can be estimated between known values because we know there has to be a smooth transition from one value to the next.
 
-Try to create a map in addition to the ones created in the Basic Level, where you estimate the values in between the sensors (e.g., spatial interpolation).
+Create versions of the figures you created in the Basic Level where you estimate the values in between the sensors (i.e., [spatial interpolation](https://mgimond.github.io/Spatial/spatial-interpolation.html)).
+
+**Advanced Level**
+
+Create figures to compare the following spatial interpolation methods:
+
+* proximity analysis (e.g., using Thiessen/voronoi polygons)
+* inverse-distance weighted
+* ordinary kriging
+
+and answer the following questions
+
+* How does each method work?
+* What are the strengths and weaknesses of each method?
+* Which of these three methods do you think is the best at representing the missing values between sensor measurements?
 
 ### GitHub Discussion
 [Special Works 2 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/8)
