@@ -17,7 +17,7 @@ Be sure to maintain the IDs that are associated with each of the locations.
 Export your solution as a CSV file.
 
 ### GitHub Discussion
-[Special Works 5 (discussion board)](#)
+[Special Works 5 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/11)
 
 ### Shared Google Doc
 [Special Works 5 (.gdoc)](https://docs.google.com/document/d/13WM2O0EUuvhKQrr0pYtatrSYoXHJNr2ITgqN0KYDg6g/edit?usp=sharing)
