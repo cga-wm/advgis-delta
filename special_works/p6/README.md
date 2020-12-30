@@ -29,10 +29,10 @@ _Note: the shark attack dataset is created and maintained by registered users; t
 
 **Advanced Level** (_GIS 520_)
 
-TBA
+TBA (see Deb Gauthier's geocoded shark attacks in your AdvGIS - Special Works folder in AGOL; then join to weather, then do Moran's I spatial autocorrelation).
 
 ### GitHub Discussion 
-[Special Works 6 (discussion board)](#)
+[Special Works 6 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/13)
 
 ### Shared Google Doc
 [Special Works 6 (.gdoc)](https://docs.google.com/document/d/1XmHMNj63MSWtijPL-JuGfpmVLshG_Gd7fg2njE9t-KQ/edit?usp=sharing)
