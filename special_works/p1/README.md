@@ -10,7 +10,7 @@ Unfortunately, they only provide you with the following details:
 
 I spoke with the first author and they told me that the figure was originally produced using QGIS and that the basemap was designed using a K&ouml;ppen-Geiger climate classification dataset.
 
-Your task, should you choose to accept, is to:
+**Basic Level**
 
 1. Find the figure that needs to be reproduced
 1. Find/create the spatial data represented in the figure
