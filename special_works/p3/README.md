@@ -3,7 +3,7 @@
 
 **Scenario:**  
 
-It is sowing season in Napa Valley California for the coming year's vineyards and one of the deciding factors in a successful harvest is the availability of water. 
+It is grape vine sowing season in Napa Valley California for the coming year's vineyards and one of the deciding factors in a successful harvest is the availability of water. 
 Irrigation plays an important role for this crop and an agricultural firm has asked you to calculate the watershed area (i.e., the area of land that collects rainwater) that feeds their irrigation pump located on Salvador Creek not far from Vintage High School (lat/lon: +38.3326,-122.3107). 
 
 **Basic Level** 
