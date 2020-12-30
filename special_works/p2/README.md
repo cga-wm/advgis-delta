@@ -41,7 +41,7 @@ Create versions of the figures you created in the Basic Level where you estimate
 * proximity analysis (e.g., using Thiessen/voronoi polygons)
 * inverse-distance weighted (IDW)
 
-**Advanced Level**
+**Advanced Level** (_GIS 520_)
 
 Create figures to compare the following spatial interpolation methods:
 
