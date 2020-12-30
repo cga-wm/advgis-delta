@@ -22,9 +22,7 @@ Knowing that you will have to repeat this process, you decide to create a model 
 
 Produce either a graphical model (e.g., ModelBuilder in ArcGIS or Graphical Modeler in QGIS) or programmatic model (e.g., ArcGIS Notebook) that represents the procedure for watershed delineation and calculate the area of the watershed around Salvador Creek for the client.
 
-**Advanced Level**
-
-_For GIS 520 students._
+**Advanced Level** (_GIS 520_)
 
 The client's pump station is nearing its end-of-life and the client has asked for an analysis of alternative pump station locations.
 
