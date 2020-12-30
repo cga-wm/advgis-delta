@@ -7,7 +7,7 @@
 A client that has presented you with a CSV of coordinates (addresses that have already been geocoded, but are anonymized) and wants to know the shortest driving distance (in miles) between each pair of points (i.e., create a minimum driving distance matrix). 
 They want to know if the process can be automated and need an explanation of the procedure for their thesis. 
 
-The CSV, [advgis_mdd.csv](#), is provided here as well as on ArcGIS Online ([advgis_mdd.csv](https://wm-gis.maps.arcgis.com/home/item.html?id=85ef209e191b41419ca555492c60935a)).
+The CSV, [advgis_mdd.csv](./advgis_mdd.csv), is provided here as well as on ArcGIS Online ([advgis_mdd.csv](https://wm-gis.maps.arcgis.com/home/item.html?id=85ef209e191b41419ca555492c60935a)).
 
 **Basic Level**
 
