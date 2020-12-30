@@ -1,4 +1,4 @@
-# Special Works - Project 2 - Advanced Figure Reproduction and Spatial Interpolation
+# Special Works - Project 2 - Spatial Interpolation
 
 ![Introduction Video](# "Introduction Video")
 
