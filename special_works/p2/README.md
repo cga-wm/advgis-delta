@@ -1,4 +1,4 @@
-# Special Works - Project 2 - Advanced Figure Reproduction
+# Special Works - Project 2 - Advanced Figure Reproduction and Spatial Interpolation
 
 ![Introduction Video](# "Introduction Video")
 
@@ -36,7 +36,10 @@ I could see selecting grid cells within a distance of node points and storing th
 Showing local changes within a few gridded areas is okay, but one nice thing (in general) about soil conditions, such water potential, is that they tend to be continuous across a given surface (or horizon).
 Continuous variables can be estimated between known values because we know there has to be a smooth transition from one value to the next.
 
-Create versions of the figures you created in the Basic Level where you estimate the values in between the sensors (i.e., [spatial interpolation](https://mgimond.github.io/Spatial/spatial-interpolation.html)).
+Create versions of the figures you created in the Basic Level where you estimate the values in between the sensors (i.e., [spatial interpolation](https://mgimond.github.io/Spatial/spatial-interpolation.html)) using one of the following [deterministic methods](https://mgimond.github.io/Spatial/spatial-interpolation.html#deterministic-approach-to-interpolation):
+
+* proximity analysis (e.g., using Thiessen/voronoi polygons)
+* inverse-distance weighted (IDW)
 
 **Advanced Level**
 
@@ -46,7 +49,7 @@ Create figures to compare the following spatial interpolation methods:
 * inverse-distance weighted
 * ordinary kriging
 
-and answer the following questions
+and answer the following questions:
 
 * How does each method work?
 * What are the strengths and weaknesses of each method?
