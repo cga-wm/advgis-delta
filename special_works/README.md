@@ -12,7 +12,7 @@ Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate 
 ### Project Summaries
 
 * Project 1 - Figure Reproduction
-* Project 2 - Advanced Figure Reproduction (and Spatial Interpolation)
+* Project 2 - Advanced Figure Reproduction and Spatial Interpolation
 * Project 3 - Watershed Delineation 
 * Project 4 - Geocoding
 * Project 5 - ?? (Cost-Distance Matrix)
