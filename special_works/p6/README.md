@@ -34,8 +34,8 @@ _Note: the shark attack dataset is created and maintained by registered users; t
 
 **Advanced Level** (_GIS 520_)
 
-Model the intensity (i.e., density) of shark encounters based on either of the daily weather predictors using a poisson point process model based on the maximum likelihood method.
-See &sect;11.2.3 in M. Gimond's [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/chp11-0.html).
+Design a model to predict the likelihood of a shark encounter (or intensity of shark encounters) using any variable(s) in the joined table as a predictor(s).
+
 
 ### GitHub Discussion 
 [Special Works 6 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/13)
