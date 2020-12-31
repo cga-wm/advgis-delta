@@ -16,7 +16,7 @@ The client has provided two extra bits of information to their dataset:
 
 **Basic Level**
 
-The client has asked you to add the daily rainfall and air temperature associated with each attack.
+The client has asked you to add to this file the daily rainfall and air temperature associated with each attack (i.e., match the date and location).
 
 Daily weather can be downloaded from the internet using NOAA's [Daily Observational Data Map](https://gis.ncdc.noaa.gov/maps/ncei/cdo/daily).
 For more information on how to download these data, see [How to Get Daily Weather Data (ArcGIS Notebook)](https://wm-gis.maps.arcgis.com/home/item.html?id=fcf1b08b9ced4dde955067b697d251f3#overview).
