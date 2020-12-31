@@ -12,9 +12,30 @@ The CSV, [advgis_mdd.csv](./advgis_mdd.csv), is provided here as well as on ArcG
 **Basic Level**
 
 Create a minimum driving distance matrix between each set of points given.
-Be sure to maintain the IDs that are associated with each of the locations.
+Be sure to maintain the original IDs that are associated with each of the locations.
 
 Export your solution as a CSV file.
+
+**Intermediate Level**
+
+When determining driving distances, sometimes it is helpful to have some basic spatial statistics for comparison.
+
+Perform two point pattern analyses.
+
+1. [Centrography](https://mgimond.github.io/Spatial/chp11-0.html#centrography)
+    * Calculate the mean center, standard distance and standard deviational ellipse of the point locations used for computing the minimum driving distance
+    * Create a figure that overlays these features with the original point locations
+2. [Distance based analysis](https://mgimond.github.io/Spatial/chp11-0.html#distance-based-analysis)
+    * Compute the average nearest neighbor (ANN) in miles using the minimum driving distances found in the Basic Level analysis
+
+**Advanced Level** (_GIS 520_)
+
+Another important statistic for analyzing driving routes among locations is identifying clusters.
+One way to do this is using [K and L functions](https://mgimond.github.io/Spatial/chp11-0.html#k-and-l-functions).
+
+* Perform a K-function analysis of given locations using both driving distances and circular radii.
+* Plot the calculated K values against distance. Compare the Ks from the two distance methods.
+* Compare the calculated K values against the expected K value from a completely spatial random (CSR) / independent random process (IRP) distribution.
 
 ### GitHub Discussion
 [Special Works 5 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/11)
