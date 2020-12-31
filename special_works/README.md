@@ -21,7 +21,7 @@ The project of your choice may be solved in one of two ways:
     A reproducible depiction of your methods beginning with an empty project (for those who chose the analysis focu) or an empty notebook (for those who chose the programming focus).
     You may use any additional tools or references to help you answer the problem; however, they must be included and explained in your video.
     This method is valid for basic to advanced submissions.
-    The time limit of video submissions is based on your responses to the discussion question.
+    The time limit of video submissions is based on your responses to the [discussion question](https://github.com/cga-wm/advgis-delta/discussions/6).
 
 Each project has tiered levels for completion.
 Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate Level" for "Exceeds Expectations" (GIS 420 students) or "Advanced Level" for "Exceeds Expectations" (GIS 520 students).
