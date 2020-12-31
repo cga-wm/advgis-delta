@@ -16,5 +16,5 @@ Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate 
 * Project 3 - Watershed Delineation 
 * Project 4 - Geocoding
 * Project 5 - Minimum Driving Distance
-* Project 6 - ?? (Table Query and Join + Moran's I)
+* Project 6 - Table Query and Join
 * Project 7 - ?? (Raster something)
