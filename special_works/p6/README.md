@@ -30,11 +30,12 @@ _Note: the shark attack dataset is created and maintained by registered users; t
 
 * Identify and categorize any rows in the shark attack dataset with errors in the data record.
 * How many shark attack incidents did not have a match for daily weather from the table join performed in the Basic Level analysis?
-* Propose values for these missing entries.
+* Propose values for any missing entries.
 
 **Advanced Level** (_GIS 520_)
 
-TBA (see Deb Gauthier's geocoded shark attacks in your AdvGIS - Special Works folder in AGOL; then join to weather, then do Moran's I spatial autocorrelation).
+Model the intensity (i.e., density) of shark encounters based on either of the daily weather predictors using a poisson point process model based on the maximum likelihood method.
+See &sect;11.2.3 in M. Gimond's [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/chp11-0.html).
 
 ### GitHub Discussion 
 [Special Works 6 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/13)
