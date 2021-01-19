@@ -34,4 +34,4 @@ Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate 
 * Project 4 - Geocoding
 * Project 5 - Minimum Driving Distance
 * Project 6 - Table Query and Join
-* (Project 7 - ??)
+* Project 7 - Projections and Transformations
