@@ -2,7 +2,7 @@
 
 ![Introduction Video](# "Introduction Video")
 
-A client has asked you to reproduce eight figures they found &sect;6.4.1 in the dissertation, "Environmental Monitoring Through Wireless Sensor Networks" by T. Davis (2012). 
+A client has asked you to reproduce eight figures they found &sect;6.4.1.1 in the dissertation, "Environmental Monitoring Through Wireless Sensor Networks" by T. Davis (2012). 
 
 Figures 43 through 50 represent seasonal soil water potential (i.e., a measure of how dry the soil is---the more negative the measurement, the higher the potential, the drier the soil) from 25 sensors over a two-year period (2010--2012).
 Table 19 shows the starting and ending dates for each of the seasons used in the analysis and Table 20 shows the sensor node identifying numbers (i.e., sensor node IDs) for the 25 sensors used in the analysis.
