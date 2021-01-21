@@ -1,5 +1,5 @@
 # Special Works - Project 1 - Figure Reproduction
-![Introduction](https://drive.google.com/file/d/1ANKF3Ok3XjZDk65PbpGexf3mPCSH1uaz/view "Introduction Video")
+[Introduction (.mp3)](https://drive.google.com/file/d/1ANKF3Ok3XjZDk65PbpGexf3mPCSH1uaz/view)
 
 A client has asked you to reproduce a figure that they found in a journal article they read.
 Unfortunately, they only provide you with the following details:
