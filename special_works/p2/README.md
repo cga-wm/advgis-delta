@@ -1,6 +1,6 @@
 # Special Works - Project 2 - Spatial Interpolation
 
-![Introduction Video](# "Introduction Video")
+[Introduction (.mp3)](https://drive.google.com/file/d/12vqrKze-92e7VQGlJSv-D_s0TpjJa8kC/view)
 
 A client has asked you to reproduce eight figures they found &sect;6.4.1.1 in the dissertation, "Environmental Monitoring Through Wireless Sensor Networks" by T. Davis (2012). 
 
