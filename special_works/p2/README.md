@@ -19,9 +19,10 @@ You can find a table that pairs the old and new IDs (see [old-to-new-ids.tsv](./
 **Basic Level**
 
 Your task is to recreate these eight figures to show how water potential changes seasonally over a hillslope in a forested region.
-Please read the dissertation for details.
-To help get you started, a summary of what was done is found below.
-Remember, you may employ any techniques you want to arrive at the solution.
+Please try to match the symbology (see legend).
+Be sure to read this section of the dissertation for more details.
+Remember, you may employ any tools and techniques you want to arrive at the solution.
+Keep track of your methods!
 
 Based on the reading, it seems that the basemap around the point locations of the sensors was created using isolines of elevation (i.e., contour lines).
 These data are not provided; therefore, you will need to find elevation data (e.g., a digital elevation model) for the study area and create isolines to highlight the intervals shown.
