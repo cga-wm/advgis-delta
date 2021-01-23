@@ -28,6 +28,7 @@ The client's pump station is nearing its end-of-life and the client has asked fo
 
 Provide three alternatives within a 10-mile radius of the existing pump house.
 The new basin should be within 20% of the original basin size.
+Be sure to justify your choices.
 
 ---
 
