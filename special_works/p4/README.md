@@ -62,7 +62,7 @@ References:
 - http://geojson.io/
 
 ### Davis's Geocoding Tutorial
-[![YouTube](http://i3.ytimg.com/vi/KcqWJdWsKlo/maxresdefault.jpg)](https://youtu.be/KcqWJdWsKlo)
+[![YouTube](http://img.youtube.com/vi/KcqWJdWsKlo/0.jpg)](https://youtu.be/KcqWJdWsKlo)
 
 
 ### GitHub Discussion
