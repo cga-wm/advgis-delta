@@ -61,6 +61,9 @@ References:
 - https://geojson.org/
 - http://geojson.io/
 
+### Davis's Geocoding Tutorial
+[![YouTube](http://i3.ytimg.com/vi/KcqWJdWsKlo/maxresdefault.jpg)](https://youtu.be/KcqWJdWsKlo)
+
 
 ### GitHub Discussion
 [Special Works 4 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/10)
