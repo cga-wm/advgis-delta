@@ -20,7 +20,7 @@ Label your coordinate reference systems.
 Create a custom projection for your data.
 Use an existing projection as your foundation and change values to see how it impacts your map.
 Keep track of the values you change and take note of the changes and why they are occurring.
-Give your new project a name.
+Give your new projection a name.
 
 **Advanced Level** (_GIS 520_)
 
