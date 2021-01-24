@@ -62,6 +62,8 @@ References:
 - http://geojson.io/
 
 ### Davis's Geocoding Tutorial
+Watch as Davis walks us through solving how to scrub a website for street addresses and programmatically retrieve geospatial coordinates for each address.
+
 [![YouTube](http://img.youtube.com/vi/KcqWJdWsKlo/0.jpg)](https://youtu.be/KcqWJdWsKlo)
 
 
