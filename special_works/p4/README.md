@@ -26,6 +26,8 @@ See if you can provide an answer for the independent research group.
 
 Are the numbers increasing, decreasing or staying about the same?
 
+Also, estimate the number of women today that are experiencing a geographic barrier to high-quality gynecological cancer treatment centers.
+
 ---
 
 **Introduction to Geocoding**
