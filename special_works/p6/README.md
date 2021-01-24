@@ -1,5 +1,5 @@
 # Special Works - Project 6 - Table Queries and Joins
-![Introduction Video](# "Introduction Video")
+[Introduction (.mp3)](https://drive.google.com/file/d/1V_3G9Arkj145V_XmA4AeztV6wq_Ka52j/view)
 
 **Scenario**
 
