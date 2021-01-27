@@ -20,6 +20,10 @@ Please familiarize yourself with this web interface.
 All textual elements (including comments and discussions) use Markdown syntax, so you can embellish your responses with **bold**, *italic*, ~~strikethrough~~, as well as create ordered (numbered) and unordered lists, tables, and embed images or links.
 See Resources links below for more.
 
+### Getting Started 
+
+The welcome video and getting started series is now available on [YouTube](https://youtube.com/playlist?list=PLbIkNQKCuzMNp93D3wzRh8x8ceL4HKpIA).
+
 ### About
 This is an asynchrous remote course.
 I know a lot you are concerned about time management and collaboration.
