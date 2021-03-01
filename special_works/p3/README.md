@@ -1,10 +1,13 @@
 # Special Works - Project 3 - Watershed Delineation
-[Introduction (.mp3)](https://drive.google.com/file/d/1VooohsXYCGsWZLOavzFfbGd9HA06H3hF/view)
+
+[![Introduction Video](http://img.youtube.com/vi/63zNerTJgv4/0.jpg)](https://youtu.be/63zNerTJgv4 "Special Works 3")
 
 **Scenario:**  
 
 It is grape vine sowing season in Napa Valley California for the coming year's vineyards and one of the deciding factors in a successful harvest is the availability of water. 
 Irrigation plays an important role for this crop and an agricultural firm has asked you to calculate the watershed area (i.e., the area of land that collects rainwater) that feeds their irrigation pump located on Salvador Creek not far from Vintage High School (lat/lon: +38.3326,-122.3107). 
+
+Hear Professor Davis explain more about this project [here (.mp3)](https://drive.google.com/file/d/1VooohsXYCGsWZLOavzFfbGd9HA06H3hF/view).
 
 **Basic Level** 
 
