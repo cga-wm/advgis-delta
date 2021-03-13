@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled Project</name>
+	<gx:CascadingStyle kml:id="__managed_style_2A1589587D193ED04D2F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10041E625A193ED04D2F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_031B65132F193ED04D2F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10041E625A193ED04D2F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2A1589587D193ED04D2F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="07F2B010BE193ED04D2F">
+		<name>Brunei-Maura District</name>
+		<LookAt>
+			<longitude>115.0058624313662</longitude>
+			<latitude>4.822673492258476</latitude>
+			<altitude>13.9614479369396</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>120433.5416009277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_031B65132F193ED04D2F</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						114.8096063851925,4.890360570243161,62.1202311081729 114.8022725400988,4.854158827884837,17.26980964073242 114.7753755381325,4.7874940014632,20.02545725315078 114.7695623249007,4.725898062657264,21.5260495834289 114.7848477667575,4.725910499290792,23.92192142157512 114.8423065741945,4.745502894650127,20.3663276025672 114.854657084776,4.790420596390042,14.2356437231212 114.8968272207273,4.805642673312294,13.38282961468673 114.9789703102057,4.808549980362272,17.37873211818539 114.9913255785704,4.826656792290312,15.2965494407367 114.9847829840693,4.858524315010139,16.59482241535306 115.0276708652004,4.899086014167892,16.58316871019001 115.0458510178265,4.94617543015959,15.98910609843895 115.1476913148204,5.003435623604991,17.79340148875938 115.1419030572594,5.057087312175962,20.80699404880862 115.0575081250421,5.046930785531226,13.45983907145658 114.8545860114872,4.977347801877781,13.38589132689825 114.8065991237202,4.938932681286457,21.16836448690253 114.8096063851925,4.890360570243161,62.1202311081729 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

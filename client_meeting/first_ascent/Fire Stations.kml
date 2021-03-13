@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Fire Stations</name>
+	<gx:CascadingStyle kml:id="__managed_style_07F60654E6193EDA8863">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12036EAF54193EDA8862">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_011C3FCC73193EDA8862">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12036EAF54193EDA8862</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_07F60654E6193EDA8863</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="03AA7099DD193EDA885B">
+		<name>Jerudong Fire and Rescue Station</name>
+		<gx:mid>/g/1tfk6js1</gx:mid>
+		<gx:fid>0x32225e5caec56b41:0x1ec6a45bb3756d3b</gx:fid>
+		<LookAt>
+			<longitude>114.8385244</longitude>
+			<latitude>4.9264867</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.17295176949</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.8385244,4.9264867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0039B04707193EDAA6CD">
+		<name>Beribi Fire &amp; Rescue Station</name>
+		<gx:mid>/g/1tdb1sxb</gx:mid>
+		<gx:fid>0x32228aaa623e4f4b:0x15055fcc5af2221d</gx:fid>
+		<LookAt>
+			<longitude>114.9052548</longitude>
+			<latitude>4.8924494</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.23305960579</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.9052548,4.892449399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D51EFDC07193EDAB9B8">
+		<name>Tumasek Fire &amp; Rescue Station</name>
+		<gx:mid>/g/1tdbndjf</gx:mid>
+		<gx:fid>0x32228abe37abf2ef:0xc5fd4aa2b43ad9b2</gx:fid>
+		<LookAt>
+			<longitude>114.9244051</longitude>
+			<latitude>4.8761871</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.261631327081</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.9244051,4.8761871,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02043A3029193EDAD207">
+		<name>Pengkalan Batu Fire Station</name>
+		<gx:mid>/g/11f7240jp_</gx:mid>
+		<gx:fid>0x322263f3a37e808f:0x62024fdd5fde976b</gx:fid>
+		<LookAt>
+			<longitude>114.8249465</longitude>
+			<latitude>4.7894028</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.412503130759</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.8249465,4.7894028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03AB69DF5A193EDAE324">
+		<name>Bandar Seri Begawan Fire &amp; Rescue Station</name>
+		<gx:mid>/g/1tm66gjf</gx:mid>
+		<gx:fid>0x3222f532d70373d1:0xf007dada16625950</gx:fid>
+		<LookAt>
+			<longitude>114.9371326</longitude>
+			<latitude>4.8937227</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.230818507145</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.9371326,4.8937227,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="043FE66C1A193EDAF3B1">
+		<name>Berakas Fire &amp; Rescue Station</name>
+		<gx:mid>/g/1wrggq2h</gx:mid>
+		<gx:fid>0x3222f50c361e9a31:0x362d9258f7513345</gx:fid>
+		<LookAt>
+			<longitude>114.9324203</longitude>
+			<latitude>4.925105800000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.175398434</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.9324203,4.9251058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BC9C47AA9193EDB0A57">
+		<name>Lambak Kanan Fire &amp; Rescue Station</name>
+		<gx:mid>/g/1tf6zgkv</gx:mid>
+		<gx:fid>0x3222f69d00148f07:0x4d5c743ef0a48f54</gx:fid>
+		<LookAt>
+			<longitude>114.9646648</longitude>
+			<latitude>4.9719485</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.092021585111</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.9646648,4.9719485,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06BBCEAF8C193EDB1B79">
+		<name>Mentiri Fire Station</name>
+		<gx:mid>/g/11bzynk5x6</gx:mid>
+		<gx:fid>0x3222f164dd9d929d:0xee471e70b83fd1bf</gx:fid>
+		<LookAt>
+			<longitude>115.0333169</longitude>
+			<latitude>4.972607999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.090842108562</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>115.0333169,4.972608,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B8CA45AC3193EDB2C3D">
+		<name>RBN Fire Station Muara Camp</name>
+		<gx:mid>/g/1tg8g7jj</gx:mid>
+		<gx:fid>0x3222f00681eb46d5:0xfefc4d25935396d8</gx:fid>
+		<LookAt>
+			<longitude>115.0854456</longitude>
+			<latitude>5.035275699999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.978053920114</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>115.0854456,5.0352757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6D39B420193EDB393C">
+		<name>Main Station Hengyi Fire Departmemt</name>
+		<gx:mid>/g/11fws2c703</gx:mid>
+		<gx:fid>0x3222ef9907cea291:0x6d7402ee1fa478a0</gx:fid>
+		<LookAt>
+			<longitude>115.1090072</longitude>
+			<latitude>5.0041251</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1052.034294026145</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_011C3FCC73193EDA8862</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>115.1090072,5.0041251,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
