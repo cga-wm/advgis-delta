@@ -28,10 +28,12 @@ Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate 
 
 ### Project Summaries
 
-* Project 1 - Figure Reproduction
-* Project 2 - Spatial Interpolation
-* Project 3 - Watershed Delineation 
-* Project 4 - Geocoding
-* Project 5 - Minimum Driving Distance
-* Project 6 - Table Query and Join
-* Project 7 - Projections and Transformations
+| Project | Description | Final Four? |
+| ------- | ----------- | :---------: |
+| Project 1 | Figure Reproduction | TBD |
+| Project 2 | Spatial Interpolation | TBD |
+| Project 3 | Watershed Delineation | TBD |
+| Project 4 | Geocoding | TBD |
+| Project 5 | Minimum Driving Distance | No |
+| Project 6 | Table Query and Join | TBD |
+| Project 7 | Projections and Transformations | TBD |
