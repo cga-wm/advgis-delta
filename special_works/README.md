@@ -30,10 +30,10 @@ Consider the "Basic Level" for "Fully Meets Expectations" and the "Intermediate 
 
 | Project | Description | Final Four? |
 | ------- | ----------- | :---------: |
-| Project 1 | Figure Reproduction | TBD |
-| Project 2 | Spatial Interpolation | TBD |
-| Project 3 | Watershed Delineation | TBD |
-| Project 4 | Geocoding | TBD |
+| Project 1 | Figure Reproduction | Yes |
+| Project 2 | Spatial Interpolation | Yes |
+| Project 3 | Watershed Delineation | Yes |
+| Project 4 | Geocoding | Yes |
 | Project 5 | Minimum Driving Distance | No |
-| Project 6 | Table Query and Join | TBD |
-| Project 7 | Projections and Transformations | TBD |
+| Project 6 | Table Query and Join | No |
+| Project 7 | Projections and Transformations | No |
