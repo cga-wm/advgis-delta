@@ -63,11 +63,12 @@ References:
 - https://geojson.org/
 - http://geojson.io/
 
-### Davis's Geocoding Tutorial
+### Davis's Geocoding Tutorial - Kentucky Polling Stations
 Watch as Davis walks us through solving how to scrub a website for street addresses and programmatically retrieve geospatial coordinates for each address.
 
 [![YouTube](http://img.youtube.com/vi/KcqWJdWsKlo/0.jpg)](https://youtu.be/KcqWJdWsKlo)
 
+A copy of the Python script written in this tutorial is available [here (.py)](https://cga-wm.github.io/course/adv-gis/scripts/web_scrub.py).
 
 ### GitHub Discussion
 [Special Works 4 (discussion board)](https://github.com/cga-wm/advgis-delta/discussions/10)
